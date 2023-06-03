@@ -8,7 +8,7 @@ Now, people tend to think that you need to have an educational background in Com
 
 </br>
 
-> The exercises for Modules 2 to 5 have a `# Enter your code here and click on Run to check the results` placeholder at the bottom since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and follow the exercise guidelines in your Pycharm IDE project.
+> The exercises for Modules 2 to 5 have a `# Enter your code here and click on Run to check the results` placeholder at the bottom since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and feel free to do the exercises in a Pycharm IDE (or any other IDE) project.
 
 </br></br>
 ## Useful Materials and References
