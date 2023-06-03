@@ -6,7 +6,7 @@ Programming languages and computing came a very long way. Computer scientists sp
 
 Now, people tend to think that you need to have an educational background in Computer Science or Information Technology in order to easily learn programming when, especially these days, it’s not really the case anymore! In fact, there’s been a rise in beginner-friendly languages, allowing people from other career paths to utilize the power of programming to aid them in their daily lives. Today, we're introducing you to one of the most widely-used and beginner-friendly programming languages out there: **Python**!
 
-> The exercises for Modules 2 to 5 have a placeholder at the bottom showing `# Enter your code here and click on Run to check the results` since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and follow the exercise guidelines in your Pycharm IDE project.
+> The exercises for Modules 2 to 5 have a `# Enter your code here and click on Run to check the results` placeholder at the bottom since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and follow the exercise guidelines in your Pycharm IDE project.
 
 </br></br>
 ## Useful Materials and References
