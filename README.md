@@ -1,12 +1,22 @@
 # Basic Python Jupyter Notebook Modules
 
-> The exercises for Modules 2 to 5 has a placeholder showing `# Enter your code here and click on Run to check the results` since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and follow the exercise guidelines in a Pycharm IDE project.
+> The exercises for Modules 2 to 5 has a placeholder showing `# Enter your code here and click on Run to check the results` since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and follow the exercise guidelines in a Pycharm IDE project (check out Module 1 for the installation guide).
 
 
 ## Useful Materials and References
 1. [GeeksforGeeks - Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 2. [Core Python - DZone Refcardz](https://dzone.com/refcardz/core-python)
 3. [LearnPython - Free Interactive Tutorial](https://www.learnpython.org/)
+
+
+# Modules
+1. [Introduction to Python](README.md#module-1-introduction-to-python)
+2. [Basic Concepts and Arithmetic Expressions](#module-1-introduction-to-python)
+3. [Logical Expressions and Control Flow](#module-2-basic-concepts-and-arithmetic-expressions)
+4. [Functions and Sequential Data Structures](#module-3-logical-expressions-and-control-flow)
+5. [String Manipulation, File I/O, and Jupyter Notebook](#module-4-functions-and-sequential-data-structures)
+6. [Basic Data Analysis using Pandas](#module-5-string-manipulation-file-io-and-jupyter-notebook)
+7. :sparkles: BONUS :sparkles: [Basic Data Analysis using Pandas](#sparkles-bonus-sparkles-module-6-string-manipulation-file-io-and-jupyter-notebook)
 
 
 ## [Module 1: Introduction to Python](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%201%20-%20Introduction%20to%20Python.ipynb)
@@ -72,7 +82,7 @@
 
 ## [Module 5: String Manipulation, File I/O, and Jupyter Notebook](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%205%20-%20String%20Manipulation%2C%20File%20IO%2C%20Jupyter%20Notebook.ipynb)
 
-**File for the Exercise _(must be in the same folder/directory as your Pycharm IDE project)_:** [sample.csv](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/sample.csv)
+**File for the Exercise _(must be in the same folder/directory as your Pycharm IDE project)_:** [sample.csv](sample.csv)
 
 
 **Goals**
@@ -89,17 +99,17 @@
 - Jupyter Notebook Tutorial
 
 
-## :sparkles: BONUS :sparkles: [Module 6: String Manipulation, File I/O, and Jupyter Notebook](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%205%20-%20String%20Manipulation%2C%20File%20IO%2C%20Jupyter%20Notebook.ipynb)
+## :sparkles: BONUS :sparkles: [Module 6: Basic Data Analysis using Pandas](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/597e78c25890bb55858ccf8840e5236ecaaa42b3/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
 
 > :exclamation: **NOTE:** This is a complementary module for **Module 5**, so please make sure you've finished the course before jumping into this module!
 > Once done, please use what you've learned to explore this module via **Jupyter Notebook**.
 
 **Files to Download _(all must be in the same folder/directory)_**
-1. [Module 6 Jupyter Notebook file](https://github.com/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
-2. [Formula One data.xlsx](https://github.com/nkxye/basic-python-ipynb/blob/001f59ac1f59a2ccb7d71a28fc6b89d79385ca69/Formula%20One%20data.xlsx)
-3. [pandas-dataframe.png](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/pandas-dataframe.png) _(to render image in the notebook)_
-4. [pandas-series.png](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/pandas-series.png) _(to render image in the notebook)_
-5. [Common Functions - Descriptive Statistics.png](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/Common%20Functions%20-%20Descriptive%20Statistics.png) _(to render image in the notebook)_
+1. [Module 6 Jupyter Notebook file](%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
+2. [Formula One data.xlsx](Formula%20One%20data.xlsx)
+3. [pandas-dataframe.png](pandas-dataframe.png) _(to render image in the notebook)_
+4. [pandas-series.png](pandas-series.png) _(to render image in the notebook)_
+5. [Common Functions - Descriptive Statistics.png](Common%20Functions%20-%20Descriptive%20Statistics.png) _(to render image in the notebook)_
 
 **Goals**
 - Explore basic data analysis
