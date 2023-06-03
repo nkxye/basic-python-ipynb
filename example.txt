@@ -1,0 +1,4 @@
+Hello World
+Hello Python
+Goodbye Friend
+Goodbye Python
