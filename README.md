@@ -1,5 +1,12 @@
-# basic-python-ipynb
-Basic Python Jupyter Notebook Modules
+# Basic Python Jupyter Notebook Modules
+
+> The exercises for Modules 2 to 5 has a placeholder showing `# Enter your code here and click on Run to check the results` since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and follow the exercise guidelines in a Pycharm IDE project.
+
+
+## Useful Materials and References
+1. [GeeksforGeeks - Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+2. [Core Python - DZone Refcardz](https://dzone.com/refcardz/core-python)
+3. [LearnPython - Free Interactive Tutorial](https://www.learnpython.org/)
 
 
 ## [Module 1: Introduction to Python](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%201%20-%20Introduction%20to%20Python.ipynb)
@@ -65,6 +72,9 @@ Basic Python Jupyter Notebook Modules
 
 ## [Module 5: String Manipulation, File I/O, and Jupyter Notebook](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%205%20-%20String%20Manipulation%2C%20File%20IO%2C%20Jupyter%20Notebook.ipynb)
 
+**File for the Exercise _(must be in the same folder/directory as your Pycharm IDE project)_:** [sample.csv](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/sample.csv)
+
+
 **Goals**
 - Use indexes and methods to perform string manipulation
 - Read, open, and write files using Python
@@ -87,9 +97,9 @@ Basic Python Jupyter Notebook Modules
 **Files to Download _(all must be in the same folder/directory)_**
 1. [Module 6 Jupyter Notebook file](https://github.com/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
 2. [Formula One data.xlsx](https://github.com/nkxye/basic-python-ipynb/blob/001f59ac1f59a2ccb7d71a28fc6b89d79385ca69/Formula%20One%20data.xlsx)
-3. pandas-dataframe.png _(to render image in the notebook)_
-4. pandas-series.png _(to render image in the notebook)_
-5. Common Functions - Descriptive Statistics.png _(to render image in the notebook)_
+3. [pandas-dataframe.png](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/pandas-dataframe.png) _(to render image in the notebook)_
+4. [pandas-series.png](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/pandas-series.png) _(to render image in the notebook)_
+5. [Common Functions - Descriptive Statistics.png](https://github.com/nkxye/basic-python-ipynb/blob/778ee2692afae19587bd1698bb7f3898deb0cb4b/Common%20Functions%20-%20Descriptive%20Statistics.png) _(to render image in the notebook)_
 
 **Goals**
 - Explore basic data analysis
@@ -102,8 +112,3 @@ Basic Python Jupyter Notebook Modules
 - Statistical Operations
 - Useful Learning Materials for Pandas
 
-
-# Useful Materials and References
-1. [GeeksforGeeks - Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
-2. [Core Python - DZone Refcardz](https://dzone.com/refcardz/core-python)
-3. [LearnPython - Free Interactive Tutorial](https://www.learnpython.org/)
