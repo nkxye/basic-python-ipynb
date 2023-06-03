@@ -21,7 +21,7 @@ Now, people tend to think that you need to have an educational background in Com
 3. [Logical Expressions and Control Flow](#module-2-basic-concepts-and-arithmetic-expressions)
 4. [Functions and Sequential Data Structures](#module-3-logical-expressions-and-control-flow)
 5. [String Manipulation, File I/O, and Jupyter Notebook](#module-4-functions-and-sequential-data-structures)
-6. :sparkles:BONUS:sparkles: [Basic Data Analysis using Pandas](#sparkles-bonus-sparkles-module-6-basic-data-analysis-using-pandas)
+6. **_BONUS_** [Basic Data Analysis using Pandas](#sparkles-bonus-sparkles-module-6-basic-data-analysis-using-pandas)
 
 
 
@@ -113,13 +113,13 @@ Now, people tend to think that you need to have an educational background in Com
 - Package Installation
 - Jupyter Notebook Tutorial
 
-### :sparkles: BONUS :sparkles: [Module 6: Basic Data Analysis using Pandas](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/597e78c25890bb55858ccf8840e5236ecaaa42b3/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
+### **_BONUS_** [Module 6: Basic Data Analysis using Pandas](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/597e78c25890bb55858ccf8840e5236ecaaa42b3/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
 
 > Click on the module name above to access the content.
 
 
 
-:exclamation: **NOTE:** This is a complementary module for **Module 5**, so please make sure you've finished the course before jumping into this module! Once done, please use what you've learned to explore this module via **Jupyter Notebook**.
+**NOTE:** This is a complementary module for **Module 5**, so please make sure you've finished the course before jumping into this module! Once done, please use what you've learned to explore this module via **Jupyter Notebook**.
 
 
 
