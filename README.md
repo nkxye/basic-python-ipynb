@@ -27,7 +27,7 @@ Now, people tend to think that you need to have an educational background in Com
 
 </br></br></br>
 
-## [Module 1: Introduction to Python](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%201%20-%20Introduction%20to%20Python.ipynb)
+### [Module 1: Introduction to Python](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%201%20-%20Introduction%20to%20Python.ipynb)
 
 > Click on the module name above to access the content.
 
@@ -43,7 +43,7 @@ Now, people tend to think that you need to have an educational background in Com
 - Installation Process
 - PEP 8
 </br></br>
-## [Module 2: Basic Concepts and Arithmetic Expressions](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%202%20-%20Basic%20Concepts%20and%20Arithmetic%20Operations.ipynb)
+### [Module 2: Basic Concepts and Arithmetic Expressions](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%202%20-%20Basic%20Concepts%20and%20Arithmetic%20Operations.ipynb)
 
 > Click on the module name above to access the content.
 
@@ -60,7 +60,7 @@ Now, people tend to think that you need to have an educational background in Com
 - Variables and Data Types
 - Arithmetic Operators and Expressions
 </br></br>
-## [Module 3: Logical Expressions and Control Flow](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%203%20-%20Logical%20Expressions%20and%20Control%20Flow.ipynb)
+### [Module 3: Logical Expressions and Control Flow](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%203%20-%20Logical%20Expressions%20and%20Control%20Flow.ipynb)
 
 > Click on the module name above to access the content.
 
@@ -76,7 +76,7 @@ Now, people tend to think that you need to have an educational background in Com
 - For and While Loops
 - Nested statements
 </br></br>
-## [Module 4: Functions and Sequential Data Structures](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%204%20-%20Functions%20and%20Sequential%20Data%20Structures.ipynb)
+### [Module 4: Functions and Sequential Data Structures](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%204%20-%20Functions%20and%20Sequential%20Data%20Structures.ipynb)
 
 > Click on the module name above to access the content.
 
@@ -92,7 +92,7 @@ Now, people tend to think that you need to have an educational background in Com
 - Dictionaries
 - Functions
 </br></br>
-## [Module 5: String Manipulation, File I/O, and Jupyter Notebook](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%205%20-%20String%20Manipulation%2C%20File%20IO%2C%20Jupyter%20Notebook.ipynb)
+### [Module 5: String Manipulation, File I/O, and Jupyter Notebook](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%205%20-%20String%20Manipulation%2C%20File%20IO%2C%20Jupyter%20Notebook.ipynb)
 
 > Click on the module name above to access the content.
 
@@ -115,7 +115,7 @@ Now, people tend to think that you need to have an educational background in Com
 - Package Installation
 - Jupyter Notebook Tutorial
 </br></br>
-## :sparkles: BONUS :sparkles: [Module 6: Basic Data Analysis using Pandas](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/597e78c25890bb55858ccf8840e5236ecaaa42b3/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
+### :sparkles: BONUS :sparkles: [Module 6: Basic Data Analysis using Pandas](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/597e78c25890bb55858ccf8840e5236ecaaa42b3/%5BBONUS%5D%20Module%206%20-%20Basic%20Data%20Analysis%20using%20Pandas.ipynb)
 
 > Click on the module name above to access the content.
 
