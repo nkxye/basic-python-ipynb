@@ -60,7 +60,7 @@ Now, people tend to think that you need to have an educational background in Com
 - Variables and Data Types
 - Arithmetic Operators and Expressions
 </br></br>
-### [Module 3: Logical Expressions and Control Flow](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/b9a70c5f7adc41f6fc76026118fdc508e6f47a7e/Module%203%20-%20Logical%20Expressions%20and%20Control%20Flow.ipynb)
+### [Module 3: Logical Expressions and Control Flow](https://nbviewer.org/github/nkxye/basic-python-ipynb/blob/main/Module%203%20-%20Logical%20Expressions%20and%20Control%20Flow.ipynb)
 
 > Click on the module name above to access the content.
 
