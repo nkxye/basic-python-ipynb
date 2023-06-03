@@ -4,7 +4,7 @@ Programming languages and computing came a very long way. Computer scientists sp
 
 Now, people tend to think that you need to have an educational background in Computer Science or Information Technology in order to easily learn programming when, especially these days, it’s not really the case anymore! In fact, there’s been a rise in beginner-friendly languages, allowing people from other career paths to utilize the power of programming to aid them in their daily lives. Today, we're introducing you to one of the most widely-used and beginner-friendly programming languages out there: **Python**!
 
-
+<br><br>
 
 > The exercises for Modules 2 to 5 have a `# Enter your code here and click on Run to check the results` placeholder at the bottom since these modules were initially created as _complimentary_ modules for learners who have already learned how to use Jupyter Notebook. Kindly disregard the placeholder and feel free to do the exercises in a Pycharm IDE (or any other IDE) project.
 
@@ -21,7 +21,7 @@ Now, people tend to think that you need to have an educational background in Com
 3. [Logical Expressions and Control Flow](#module-2-basic-concepts-and-arithmetic-expressions)
 4. [Functions and Sequential Data Structures](#module-3-logical-expressions-and-control-flow)
 5. [String Manipulation, File I/O, and Jupyter Notebook](#module-4-functions-and-sequential-data-structures)
-6. **_BONUS_** [Basic Data Analysis using Pandas](#sparkles-bonus-sparkles-module-6-basic-data-analysis-using-pandas)
+6. **_BONUS_**: [Basic Data Analysis using Pandas](#sparkles-bonus-sparkles-module-6-basic-data-analysis-using-pandas)
 
 
 
@@ -64,7 +64,7 @@ Now, people tend to think that you need to have an educational background in Com
 
 **Goals**
 - Compare values and expressions using comparison and logical operators
-- Use if-else, for loops, and while loops*
+- Use if-else, for loops, and while loops
 - Utilize comparison and logical operators in combination with control flow statement
 
 **Key Topics**
